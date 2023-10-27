@@ -1,5 +1,5 @@
 "use strict";
-const stripe = require("stripe")("sk_test_51Ny2fbC4boavpkWBKWEvwCpwetaP8pbiknOBFK6vll9AuUpVsr69sewbpYEcfmj6AXQpXhtqV4VYDqHXFcTEf3Nz00Pcbn7Uc6");
+const stripe = require("stripe")("MY SK_TEST KEY HERE");
 
 /**
  *  order controller
